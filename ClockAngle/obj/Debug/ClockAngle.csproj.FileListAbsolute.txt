@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\ClockAngle\bin\Debug\ClockAngle.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\ClockAngle\bin\Debug\ClockAngle.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\ClockAngle\bin\Debug\ClockAngle.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\ClockAngle\obj\Debug\ClockAngle.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\ClockAngle\obj\Debug\ClockAngle.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\ClockAngle\obj\Debug\ClockAngle.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\ClockAngle\obj\Debug\ClockAngle.pdb

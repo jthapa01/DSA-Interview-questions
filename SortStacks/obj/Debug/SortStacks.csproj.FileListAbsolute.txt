@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\SortStacks\bin\Debug\SortStacks.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\SortStacks\bin\Debug\SortStacks.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\SortStacks\bin\Debug\SortStacks.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\SortStacks\obj\Debug\SortStacks.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\SortStacks\obj\Debug\SortStacks.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\SortStacks\obj\Debug\SortStacks.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\SortStacks\obj\Debug\SortStacks.pdb

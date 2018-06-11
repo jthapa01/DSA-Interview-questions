@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\PrintReverseLinkedList\bin\Debug\PrintReverseLinkedList.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\PrintReverseLinkedList\bin\Debug\PrintReverseLinkedList.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\PrintReverseLinkedList\bin\Debug\PrintReverseLinkedList.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\PrintReverseLinkedList\obj\Debug\PrintReverseLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\PrintReverseLinkedList\obj\Debug\PrintReverseLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\PrintReverseLinkedList\obj\Debug\PrintReverseLinkedList.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\PrintReverseLinkedList\obj\Debug\PrintReverseLinkedList.pdb

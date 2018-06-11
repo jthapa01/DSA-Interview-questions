@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\GrayNumber\bin\Debug\GrayNumber.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\GrayNumber\bin\Debug\GrayNumber.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\GrayNumber\bin\Debug\GrayNumber.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\GrayNumber\obj\Debug\GrayNumber.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\GrayNumber\obj\Debug\GrayNumber.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\GrayNumber\obj\Debug\GrayNumber.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\GrayNumber\obj\Debug\GrayNumber.pdb

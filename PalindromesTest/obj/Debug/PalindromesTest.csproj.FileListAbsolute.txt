@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\PalindromesTest\obj\Debug\PalindromesTest.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\PalindromesTest\obj\Debug\PalindromesTest.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\PalindromesTest\bin\Debug\PalindromesTest.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\PalindromesTest\bin\Debug\PalindromesTest.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\PalindromesTest\bin\Debug\PalindromesTest.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\PalindromesTest\obj\Debug\PalindromesTest.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\PalindromesTest\obj\Debug\PalindromesTest.pdb

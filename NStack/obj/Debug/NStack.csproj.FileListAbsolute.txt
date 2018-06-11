@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\NStack\bin\Debug\NStack.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\NStack\bin\Debug\NStack.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\NStack\bin\Debug\NStack.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\NStack\obj\Debug\NStack.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\NStack\obj\Debug\NStack.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\NStack\obj\Debug\NStack.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\NStack\obj\Debug\NStack.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\MakingCoinChange\bin\Debug\MakingCoinChange.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\MakingCoinChange\bin\Debug\MakingCoinChange.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\MakingCoinChange\bin\Debug\MakingCoinChange.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\MakingCoinChange\obj\Debug\MakingCoinChange.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\MakingCoinChange\obj\Debug\MakingCoinChange.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\MakingCoinChange\obj\Debug\MakingCoinChange.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\MakingCoinChange\obj\Debug\MakingCoinChange.pdb

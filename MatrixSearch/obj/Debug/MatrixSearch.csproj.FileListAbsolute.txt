@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\MatrixSearch\bin\Debug\MatrixSearch.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\MatrixSearch\bin\Debug\MatrixSearch.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\MatrixSearch\bin\Debug\MatrixSearch.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\MatrixSearch\obj\Debug\MatrixSearch.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\MatrixSearch\obj\Debug\MatrixSearch.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\MatrixSearch\obj\Debug\MatrixSearch.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\MatrixSearch\obj\Debug\MatrixSearch.pdb

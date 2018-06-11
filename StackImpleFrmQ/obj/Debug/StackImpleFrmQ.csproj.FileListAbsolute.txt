@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\StackImpleFrmQ\bin\Debug\StackImpleFrmQ.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\StackImpleFrmQ\bin\Debug\StackImpleFrmQ.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\StackImpleFrmQ\bin\Debug\StackImpleFrmQ.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\StackImpleFrmQ\obj\Debug\StackImpleFrmQ.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\StackImpleFrmQ\obj\Debug\StackImpleFrmQ.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\StackImpleFrmQ\obj\Debug\StackImpleFrmQ.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\StackImpleFrmQ\obj\Debug\StackImpleFrmQ.pdb

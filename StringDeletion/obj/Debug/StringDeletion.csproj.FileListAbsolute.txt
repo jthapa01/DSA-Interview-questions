@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\StringDeletion\bin\Debug\StringDeletion.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\StringDeletion\bin\Debug\StringDeletion.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\StringDeletion\bin\Debug\StringDeletion.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\StringDeletion\obj\Debug\StringDeletion.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\StringDeletion\obj\Debug\StringDeletion.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\StringDeletion\obj\Debug\StringDeletion.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\StringDeletion\obj\Debug\StringDeletion.pdb

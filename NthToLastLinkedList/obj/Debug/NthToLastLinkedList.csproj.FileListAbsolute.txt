@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\NthToLastLinkedList\bin\Debug\NthToLastLinkedList.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\NthToLastLinkedList\bin\Debug\NthToLastLinkedList.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\NthToLastLinkedList\bin\Debug\NthToLastLinkedList.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\NthToLastLinkedList\obj\Debug\NthToLastLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\NthToLastLinkedList\obj\Debug\NthToLastLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\NthToLastLinkedList\obj\Debug\NthToLastLinkedList.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\NthToLastLinkedList\obj\Debug\NthToLastLinkedList.pdb

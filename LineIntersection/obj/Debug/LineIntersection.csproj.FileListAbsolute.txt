@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\LineIntersection\bin\Debug\LineIntersection.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\LineIntersection\bin\Debug\LineIntersection.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\LineIntersection\bin\Debug\LineIntersection.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\LineIntersection\obj\Debug\LineIntersection.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\LineIntersection\obj\Debug\LineIntersection.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\LineIntersection\obj\Debug\LineIntersection.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\LineIntersection\obj\Debug\LineIntersection.pdb

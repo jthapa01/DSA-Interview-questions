@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\BinRepresentationOfNum\bin\Debug\BinRepresentationOfNum.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\BinRepresentationOfNum\bin\Debug\BinRepresentationOfNum.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\BinRepresentationOfNum\bin\Debug\BinRepresentationOfNum.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\BinRepresentationOfNum\obj\Debug\BinRepresentationOfNum.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\BinRepresentationOfNum\obj\Debug\BinRepresentationOfNum.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\BinRepresentationOfNum\obj\Debug\BinRepresentationOfNum.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\BinRepresentationOfNum\obj\Debug\BinRepresentationOfNum.pdb

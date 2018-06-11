@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\MaxValueStack\obj\Debug\MaxValueStack.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\MaxValueStack\obj\Debug\MaxValueStack.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\MaxValueStack\bin\Debug\MaxValueStack.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\MaxValueStack\bin\Debug\MaxValueStack.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\MaxValueStack\bin\Debug\MaxValueStack.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\MaxValueStack\obj\Debug\MaxValueStack.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\MaxValueStack\obj\Debug\MaxValueStack.pdb

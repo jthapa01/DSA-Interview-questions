@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\StringsAnagram\bin\Debug\StringsAnagram.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\StringsAnagram\bin\Debug\StringsAnagram.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\StringsAnagram\bin\Debug\StringsAnagram.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\StringsAnagram\obj\Debug\StringsAnagram.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\StringsAnagram\obj\Debug\StringsAnagram.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\StringsAnagram\obj\Debug\StringsAnagram.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\StringsAnagram\obj\Debug\StringsAnagram.pdb

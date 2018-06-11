@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\SplitLinkedList\bin\Debug\SplitLinkedList.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\SplitLinkedList\bin\Debug\SplitLinkedList.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\SplitLinkedList\bin\Debug\SplitLinkedList.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\SplitLinkedList\obj\Debug\SplitLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\SplitLinkedList\obj\Debug\SplitLinkedList.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\SplitLinkedList\obj\Debug\SplitLinkedList.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\SplitLinkedList\obj\Debug\SplitLinkedList.csprojResolveAssemblyReference.cache

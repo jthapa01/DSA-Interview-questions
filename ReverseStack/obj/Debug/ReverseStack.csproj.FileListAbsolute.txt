@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\ReverseStack\obj\Debug\ReverseStack.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\ReverseStack\obj\Debug\ReverseStack.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\ReverseStack\bin\Debug\ReverseStack.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\ReverseStack\bin\Debug\ReverseStack.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\ReverseStack\bin\Debug\ReverseStack.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\ReverseStack\obj\Debug\ReverseStack.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\ReverseStack\obj\Debug\ReverseStack.pdb

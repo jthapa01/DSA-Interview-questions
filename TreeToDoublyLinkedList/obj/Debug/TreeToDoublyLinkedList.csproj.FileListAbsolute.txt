@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\TreeToDoublyLinkedList\bin\Debug\TreeToDoublyLinkedList.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\TreeToDoublyLinkedList\bin\Debug\TreeToDoublyLinkedList.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\TreeToDoublyLinkedList\bin\Debug\TreeToDoublyLinkedList.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\TreeToDoublyLinkedList\obj\Debug\TreeToDoublyLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\TreeToDoublyLinkedList\obj\Debug\TreeToDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\TreeToDoublyLinkedList\obj\Debug\TreeToDoublyLinkedList.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\TreeToDoublyLinkedList\obj\Debug\TreeToDoublyLinkedList.pdb

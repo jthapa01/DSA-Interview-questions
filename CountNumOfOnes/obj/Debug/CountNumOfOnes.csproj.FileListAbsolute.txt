@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\CountNumOfOnes\bin\Debug\CountNumOfOnes.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\CountNumOfOnes\bin\Debug\CountNumOfOnes.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\CountNumOfOnes\bin\Debug\CountNumOfOnes.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\CountNumOfOnes\obj\Debug\CountNumOfOnes.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\CountNumOfOnes\obj\Debug\CountNumOfOnes.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\CountNumOfOnes\obj\Debug\CountNumOfOnes.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\CountNumOfOnes\obj\Debug\CountNumOfOnes.pdb

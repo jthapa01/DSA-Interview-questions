@@ -1,0 +1,7 @@
+C:\Users\New Laptop\source\repos\InterviewPrep\SwapVariables\bin\Debug\SwapVariables.exe.config
+C:\Users\New Laptop\source\repos\InterviewPrep\SwapVariables\bin\Debug\SwapVariables.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\SwapVariables\bin\Debug\SwapVariables.pdb
+C:\Users\New Laptop\source\repos\InterviewPrep\SwapVariables\obj\Debug\SwapVariables.csprojResolveAssemblyReference.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\SwapVariables\obj\Debug\SwapVariables.csproj.CoreCompileInputs.cache
+C:\Users\New Laptop\source\repos\InterviewPrep\SwapVariables\obj\Debug\SwapVariables.exe
+C:\Users\New Laptop\source\repos\InterviewPrep\SwapVariables\obj\Debug\SwapVariables.pdb
